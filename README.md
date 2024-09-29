@@ -1,4 +1,4 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Project_Title_0"></a>Project Title</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Project_Title_0"></a>Self Organizing Map And Anamolies Detection Using Neural Networks On Wholesale Customers Dataset</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Overview_2"></a>Overview</h2>
 <p class="has-line-data" data-line-start="4" data-line-end="5">This project implements a Self-Organizing Map (SOM) using neural networks on the Wholesale Customers dataset from the UCI Machine Learning Repository. The tool visualizes the results and identifies anomalies in the dataset.</p>
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="Hardware_Requirements_6"></a>Hardware Requirements</h2>
