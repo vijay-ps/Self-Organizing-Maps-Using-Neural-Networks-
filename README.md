@@ -35,7 +35,7 @@ Open a terminal and run the following command to install the necessary libraries
 <li class="has-line-data" data-line-start="42" data-line-end="48">
 <p class="has-line-data" data-line-start="42" data-line-end="44"><strong>Run the Main Script</strong><br>
 Navigate to the directory where the <code>main.py</code> file is located and execute the script:</p>
-<pre><code class="has-line-data" data-line-start="45" data-line-end="47" class="language-bash">python main.py
+<pre><code class="has-line-data" data-line-start="45" data-line-end="47" class="language-bash">python src/main.py
 </code></pre>
 </li>
 </ol>
